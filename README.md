@@ -1,4 +1,4 @@
-# AI Agents for SOAtest and Virtualize
+# AI Agent Skills for SOAtest and Virtualize
 
 ## Table of Contents
 
